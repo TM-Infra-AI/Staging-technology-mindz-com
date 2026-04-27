@@ -1,0 +1,5 @@
+[24-Nov-2025 10:54:02 UTC] PHP Fatal error:  Trait "WPForms\Admin\Traits\HasScreenOptions" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Admin/Forms/Page.php on line 13
+[24-Nov-2025 10:54:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPForms\Admin\Forms\ABSPATH" in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Admin/Forms/ListTable.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Admin/Forms/ListTable.php on line 16

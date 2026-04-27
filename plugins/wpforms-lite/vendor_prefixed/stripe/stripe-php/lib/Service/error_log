@@ -1,0 +1,213 @@
+[24-Nov-2025 10:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PlanService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PlanService.php on line 10
+[24-Nov-2025 10:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/TransferService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/TransferService.php on line 10
+[24-Nov-2025 10:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/FileService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/FileService.php on line 10
+[24-Nov-2025 10:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PayoutService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PayoutService.php on line 10
+[24-Nov-2025 10:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/WebhookEndpointService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/WebhookEndpointService.php on line 10
+[24-Nov-2025 10:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/BalanceTransactionService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/BalanceTransactionService.php on line 10
+[24-Nov-2025 10:52:20 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/CustomerSessionService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/CustomerSessionService.php on line 10
+[24-Nov-2025 10:52:20 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/InvoiceItemService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/InvoiceItemService.php on line 10
+[24-Nov-2025 10:52:20 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/InvoiceService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/InvoiceService.php on line 10
+[24-Nov-2025 10:52:20 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/SetupIntentService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/SetupIntentService.php on line 10
+[24-Nov-2025 10:52:21 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/CouponService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/CouponService.php on line 10
+[24-Nov-2025 10:52:21 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/EphemeralKeyService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/EphemeralKeyService.php on line 10
+[24-Nov-2025 10:52:21 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ReviewService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ReviewService.php on line 10
+[24-Nov-2025 10:52:21 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/SubscriptionService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/SubscriptionService.php on line 10
+[24-Nov-2025 10:52:22 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ApplicationFeeService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ApplicationFeeService.php on line 10
+[24-Nov-2025 10:52:22 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/SourceService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/SourceService.php on line 10
+[24-Nov-2025 10:52:22 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/CustomerService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/CustomerService.php on line 10
+[24-Nov-2025 10:52:23 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/TaxRateService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/TaxRateService.php on line 10
+[24-Nov-2025 10:52:23 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/EventService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/EventService.php on line 10
+[24-Nov-2025 10:52:23 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/DisputeService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/DisputeService.php on line 10
+[24-Nov-2025 10:52:23 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/AccountLinkService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/AccountLinkService.php on line 10
+[24-Nov-2025 10:52:24 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PaymentLinkService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PaymentLinkService.php on line 10
+[24-Nov-2025 10:52:24 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PaymentIntentService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PaymentIntentService.php on line 10
+[24-Nov-2025 10:52:24 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/QuoteService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/QuoteService.php on line 10
+[24-Nov-2025 10:52:25 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/SubscriptionItemService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/SubscriptionItemService.php on line 10
+[24-Nov-2025 10:52:25 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/MandateService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/MandateService.php on line 10
+[24-Nov-2025 10:52:25 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractServiceFactory" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/CoreServiceFactory.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/CoreServiceFactory.php on line 81
+[24-Nov-2025 10:52:25 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PaymentMethodService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PaymentMethodService.php on line 10
+[24-Nov-2025 10:52:26 UTC] PHP Fatal error:  Trait "WPForms\Vendor\Stripe\Service\ServiceNavigatorTrait" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/AbstractServiceFactory.php on line 15
+[24-Nov-2025 10:52:26 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/AccountService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/AccountService.php on line 10
+[24-Nov-2025 10:52:26 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/AccountSessionService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/AccountSessionService.php on line 10
+[24-Nov-2025 10:52:27 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ShippingRateService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ShippingRateService.php on line 10
+[24-Nov-2025 10:52:27 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/TaxIdService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/TaxIdService.php on line 10
+[24-Nov-2025 10:52:27 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/FileLinkService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/FileLinkService.php on line 10
+[24-Nov-2025 10:52:27 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/InvoiceRenderingTemplateService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/InvoiceRenderingTemplateService.php on line 10
+[24-Nov-2025 10:52:28 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/TopupService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/TopupService.php on line 10
+[24-Nov-2025 10:52:28 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ConfirmationTokenService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ConfirmationTokenService.php on line 10
+[24-Nov-2025 10:52:29 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ChargeService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ChargeService.php on line 10
+[24-Nov-2025 10:52:29 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/RefundService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/RefundService.php on line 10
+[24-Nov-2025 10:52:29 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PriceService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PriceService.php on line 10
+[24-Nov-2025 10:52:29 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/SetupAttemptService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/SetupAttemptService.php on line 10
+[24-Nov-2025 10:52:30 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PaymentMethodDomainService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PaymentMethodDomainService.php on line 10
+[24-Nov-2025 10:52:30 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PromotionCodeService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PromotionCodeService.php on line 10
+[24-Nov-2025 10:52:30 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ExchangeRateService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ExchangeRateService.php on line 10
+[24-Nov-2025 10:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/SubscriptionScheduleService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/SubscriptionScheduleService.php on line 10
+[24-Nov-2025 10:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/TaxCodeService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/TaxCodeService.php on line 10
+[24-Nov-2025 10:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ProductService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ProductService.php on line 10
+[24-Nov-2025 10:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/TokenService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/TokenService.php on line 10
+[24-Nov-2025 10:52:32 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PaymentMethodConfigurationService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/PaymentMethodConfigurationService.php on line 10
+[24-Nov-2025 10:52:32 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/BalanceService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/BalanceService.php on line 10
+[24-Nov-2025 10:52:32 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/CountrySpecService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/CountrySpecService.php on line 10
+[24-Nov-2025 10:52:32 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/CreditNoteService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/CreditNoteService.php on line 10
+[24-Nov-2025 10:52:33 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ApplePayDomainService.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/ApplePayDomainService.php on line 10
+[24-Nov-2025 10:52:33 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\Service\AbstractService" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/OAuthService.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Service/OAuthService.php on line 5

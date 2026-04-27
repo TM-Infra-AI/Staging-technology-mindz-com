@@ -1,0 +1,8 @@
+[24-Nov-2025 10:55:44 UTC] PHP Fatal error:  Uncaught Error: Interface "WPForms\Admin\Education\EducationInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Lite/Admin/Education/Admin/DidYouKnow.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Lite/Admin/Education/Admin/DidYouKnow.php on line 15
+[24-Nov-2025 10:55:44 UTC] PHP Fatal error:  Uncaught Error: Interface "WPForms\Admin\Education\EducationInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Lite/Admin/Education/Admin/NoticeBar.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Lite/Admin/Education/Admin/NoticeBar.php on line 12

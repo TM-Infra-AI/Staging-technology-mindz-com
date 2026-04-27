@@ -1,0 +1,64 @@
+[24-Nov-2025 11:01:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function path_join() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php on line 3
+[24-Nov-2025 11:01:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php on line 3
+[06-Jan-2026 05:12:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php on line 3
+[06-Jan-2026 05:12:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function path_join() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php on line 3
+[23-Jan-2026 04:01:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php on line 3
+[23-Jan-2026 04:01:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function path_join() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php on line 3
+[12-Feb-2026 19:12:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php on line 3
+[12-Feb-2026 19:12:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function path_join() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php on line 3
+[23-Feb-2026 09:26:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php on line 3
+[23-Feb-2026 09:26:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function path_join() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php on line 3
+[04-Mar-2026 00:52:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php on line 3
+[04-Mar-2026 00:52:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function path_join() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php on line 3
+[08-Mar-2026 18:18:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php on line 3
+[08-Mar-2026 18:18:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function path_join() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php on line 3
+[26-Mar-2026 16:50:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php on line 3
+[26-Mar-2026 16:50:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function path_join() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php on line 3

@@ -1,0 +1,20 @@
+[24-Nov-2025 10:56:09 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_SimpleSchedule" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[24-Nov-2025 10:56:10 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_RecurringSchedule" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[24-Nov-2025 10:56:10 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_RecurringSchedule" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[24-Nov-2025 10:56:10 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_Schedule" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[24-Nov-2025 10:56:11 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_SimpleSchedule" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6

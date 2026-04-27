@@ -1,0 +1,1 @@
+[24-Nov-2025 10:54:16 UTC] PHP Fatal error:  Trait "WPForms\Admin\Traits\FormTemplates" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Admin/Pages/Templates.php on line 12

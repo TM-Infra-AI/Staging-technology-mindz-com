@@ -1,0 +1,12 @@
+[24-Nov-2025 10:56:12 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_DBStore" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 10
+[24-Nov-2025 10:56:13 UTC] PHP Fatal error:  Uncaught Error: Class "Action_Scheduler\Migration\LogMigrator" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/migration/DryRun_LogMigrator.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/migration/DryRun_LogMigrator.php on line 13
+[24-Nov-2025 10:56:13 UTC] PHP Fatal error:  Uncaught Error: Class "Action_Scheduler\Migration\ActionMigrator" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/migration/DryRun_ActionMigrator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/migration/DryRun_ActionMigrator.php on line 15

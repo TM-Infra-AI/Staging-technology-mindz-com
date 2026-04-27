@@ -1,0 +1,12 @@
+[24-Nov-2025 10:49:08 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Cluster\ClusterStrategy" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Cluster/PredisStrategy.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Cluster/PredisStrategy.php on line 22
+[24-Nov-2025 10:49:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Cluster\StrategyInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Cluster/ClusterStrategy.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Cluster/ClusterStrategy.php on line 22
+[24-Nov-2025 10:49:09 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Cluster\ClusterStrategy" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Cluster/RedisStrategy.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Cluster/RedisStrategy.php on line 24

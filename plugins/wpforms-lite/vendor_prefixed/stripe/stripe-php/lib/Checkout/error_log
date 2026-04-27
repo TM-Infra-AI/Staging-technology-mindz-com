@@ -1,0 +1,4 @@
+[24-Nov-2025 10:53:02 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Checkout/Session.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Checkout/Session.php on line 78

@@ -1,0 +1,32 @@
+[24-Nov-2025 10:55:01 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Integrations\Stripe\Api\Webhooks\Base" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/ChargeSucceeded.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/ChargeSucceeded.php on line 14
+[24-Nov-2025 10:55:02 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Integrations\Stripe\Api\Webhooks\Base" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/InvoiceCreated.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/InvoiceCreated.php on line 16
+[24-Nov-2025 10:55:02 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Integrations\Stripe\Api\Webhooks\Base" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/CustomerSubscriptionCreated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/CustomerSubscriptionCreated.php on line 12
+[24-Nov-2025 10:55:03 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Integrations\Stripe\Api\Webhooks\Base" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/InvoicePaymentSucceeded.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/InvoicePaymentSucceeded.php on line 16
+[24-Nov-2025 10:55:03 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Integrations\Stripe\Api\Webhooks\Base" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/CustomerSubscriptionDeleted.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/CustomerSubscriptionDeleted.php on line 13
+[24-Nov-2025 10:55:03 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Integrations\Stripe\Api\Webhooks\Base" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/CustomerSubscriptionUpdated.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/CustomerSubscriptionUpdated.php on line 13
+[24-Nov-2025 10:55:03 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Integrations\Stripe\Api\Webhooks\Base" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/ChargeRefunded.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/ChargeRefunded.php on line 15
+[24-Nov-2025 10:55:04 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Integrations\Stripe\Api\Webhooks\Base" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/ChargeRefundUpdated.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Stripe/Api/Webhooks/ChargeRefundUpdated.php on line 15

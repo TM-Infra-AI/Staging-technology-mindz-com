@@ -1,0 +1,20 @@
+[24-Nov-2025 10:52:54 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/FinancialConnections/Account.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/FinancialConnections/Account.php on line 29
+[24-Nov-2025 10:52:54 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/FinancialConnections/Transaction.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/FinancialConnections/Transaction.php on line 22
+[24-Nov-2025 10:52:54 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/FinancialConnections/AccountOwnership.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/FinancialConnections/AccountOwnership.php on line 14
+[24-Nov-2025 10:52:55 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/FinancialConnections/AccountOwner.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/FinancialConnections/AccountOwner.php on line 18
+[24-Nov-2025 10:52:55 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/FinancialConnections/Session.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/FinancialConnections/Session.php on line 20

@@ -1,0 +1,4 @@
+[24-Nov-2025 10:51:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/languages/react.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/languages/react.php on line 5

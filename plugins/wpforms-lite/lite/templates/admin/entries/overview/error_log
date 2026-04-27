@@ -1,0 +1,18 @@
+[24-Nov-2025 10:58:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpforms_render() in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/lite/templates/admin/entries/overview/table.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/lite/templates/admin/entries/overview/table.php on line 26
+[24-Nov-2025 10:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpforms_render() in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/lite/templates/admin/entries/overview/entry-list.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/lite/templates/admin/entries/overview/entry-list.php on line 22
+[24-Nov-2025 10:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpforms_render() in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/lite/templates/admin/entries/overview/header.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/lite/templates/admin/entries/overview/header.php on line 31
+[24-Nov-2025 10:58:34 UTC] PHP Warning:  Undefined variable $is_enabled in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/lite/templates/admin/entries/overview/modal.php on line 14
+[24-Nov-2025 10:58:34 UTC] PHP Warning:  Undefined variable $is_lite_connect_enabled in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/lite/templates/admin/entries/overview/modal.php on line 15
+[24-Nov-2025 10:58:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/lite/templates/admin/entries/overview/modal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/lite/templates/admin/entries/overview/modal.php on line 17

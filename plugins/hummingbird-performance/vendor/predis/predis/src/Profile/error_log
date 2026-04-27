@@ -1,0 +1,36 @@
+[24-Nov-2025 10:50:10 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Profile\RedisProfile" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisVersion260.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisVersion260.php on line 19
+[24-Nov-2025 10:50:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Profile\ProfileInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisProfile.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisProfile.php on line 22
+[24-Nov-2025 10:50:10 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Profile\RedisProfile" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisVersion200.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisVersion200.php on line 19
+[24-Nov-2025 10:50:11 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Profile\RedisProfile" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisVersion300.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisVersion300.php on line 19
+[24-Nov-2025 10:50:11 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Profile\RedisProfile" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisVersion240.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisVersion240.php on line 19
+[24-Nov-2025 10:50:11 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Profile\RedisProfile" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisVersion320.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisVersion320.php on line 19
+[24-Nov-2025 10:50:12 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Profile\RedisProfile" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisVersion220.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisVersion220.php on line 19
+[24-Nov-2025 10:50:12 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Profile\RedisVersion320" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisUnstable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisUnstable.php on line 19
+[24-Nov-2025 10:50:12 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Profile\RedisProfile" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisVersion280.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Profile/RedisVersion280.php on line 19

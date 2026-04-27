@@ -1,0 +1,8 @@
+[24-Nov-2025 11:00:13 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Log" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/models/log/log-404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/models/log/log-404.php on line 6
+[24-Nov-2025 11:00:13 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Log" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/models/log/log-redirect.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/models/log/log-redirect.php on line 6

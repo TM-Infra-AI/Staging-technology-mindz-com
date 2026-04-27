@@ -1,0 +1,32 @@
+[24-Nov-2025 11:01:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php on line 8
+[06-Jan-2026 05:13:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php on line 8
+[23-Jan-2026 04:02:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php on line 8
+[12-Feb-2026 19:13:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php on line 8
+[23-Feb-2026 09:27:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php on line 8
+[04-Mar-2026 00:52:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php on line 8
+[08-Mar-2026 18:19:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php on line 8
+[26-Mar-2026 16:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php on line 8

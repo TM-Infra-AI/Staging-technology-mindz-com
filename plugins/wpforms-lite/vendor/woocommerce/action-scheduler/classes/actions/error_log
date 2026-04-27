@@ -1,0 +1,12 @@
+[24-Nov-2025 10:56:19 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Action" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_FinishedAction.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_FinishedAction.php on line 6
+[24-Nov-2025 10:56:20 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Action" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_NullAction.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_NullAction.php on line 6
+[24-Nov-2025 10:56:20 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_FinishedAction" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_CanceledAction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_CanceledAction.php on line 9

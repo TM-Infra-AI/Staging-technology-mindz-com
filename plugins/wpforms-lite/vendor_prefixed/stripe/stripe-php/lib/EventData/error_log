@@ -1,0 +1,8 @@
+[24-Nov-2025 10:52:51 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\StripeObject" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/EventData/V1BillingMeterErrorReportTriggeredEventData.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/EventData/V1BillingMeterErrorReportTriggeredEventData.php on line 12
+[24-Nov-2025 10:52:51 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\StripeObject" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/EventData/V1BillingMeterNoMeterFoundEventData.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/EventData/V1BillingMeterNoMeterFoundEventData.php on line 12

@@ -1,0 +1,44 @@
+[24-Nov-2025 10:52:13 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/ReceivedDebit.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/ReceivedDebit.php on line 26
+[24-Nov-2025 10:52:13 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/InboundTransfer.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/InboundTransfer.php on line 32
+[24-Nov-2025 10:52:13 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/OutboundPayment.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/OutboundPayment.php on line 36
+[24-Nov-2025 10:52:14 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/Transaction.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/Transaction.php on line 25
+[24-Nov-2025 10:52:14 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/CreditReversal.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/CreditReversal.php on line 24
+[24-Nov-2025 10:52:14 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/ReceivedCredit.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/ReceivedCredit.php on line 26
+[24-Nov-2025 10:52:14 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/FinancialAccountFeatures.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/FinancialAccountFeatures.php on line 19
+[24-Nov-2025 10:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/TransactionEntry.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/TransactionEntry.php on line 23
+[24-Nov-2025 10:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/DebitReversal.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/DebitReversal.php on line 25
+[24-Nov-2025 10:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/OutboundTransfer.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/OutboundTransfer.php on line 34
+[24-Nov-2025 10:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/FinancialAccount.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Treasury/FinancialAccount.php on line 27

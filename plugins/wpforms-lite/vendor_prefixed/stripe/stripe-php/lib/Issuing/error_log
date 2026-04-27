@@ -1,0 +1,36 @@
+[24-Nov-2025 10:53:02 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/CardDetails.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/CardDetails.php on line 16
+[24-Nov-2025 10:53:03 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/PersonalizationDesign.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/PersonalizationDesign.php on line 23
+[24-Nov-2025 10:53:03 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/Transaction.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/Transaction.php on line 36
+[24-Nov-2025 10:53:03 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/Card.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/Card.php on line 34
+[24-Nov-2025 10:53:04 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/PhysicalBundle.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/PhysicalBundle.php on line 17
+[24-Nov-2025 10:53:04 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/Cardholder.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/Cardholder.php on line 28
+[24-Nov-2025 10:53:04 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/Dispute.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/Dispute.php on line 25
+[24-Nov-2025 10:53:04 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/Token.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/Token.php on line 22
+[24-Nov-2025 10:53:05 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/Authorization.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Issuing/Authorization.php on line 41

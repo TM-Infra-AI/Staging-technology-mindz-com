@@ -1,0 +1,32 @@
+[24-Nov-2025 10:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "Redirection_Api_Filter_Route" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-group.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-group.php on line 137
+[24-Nov-2025 10:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "Redirection_Api_Filter_Route" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-404.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-404.php on line 84
+[24-Nov-2025 11:00:00 UTC] PHP Fatal error:  Uncaught Error: Class "Redirection_Api_Route" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-import.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-import.php on line 31
+[24-Nov-2025 11:00:00 UTC] PHP Fatal error:  Uncaught Error: Class "Redirection_Api_Route" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-plugin.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-plugin.php on line 6
+[24-Nov-2025 11:00:00 UTC] PHP Fatal error:  Uncaught Error: Class "Redirection_Api_Filter_Route" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-redirect.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-redirect.php on line 173
+[24-Nov-2025 11:00:01 UTC] PHP Fatal error:  Uncaught Error: Class "Redirection_Api_Filter_Route" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-log.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-log.php on line 103
+[24-Nov-2025 11:00:01 UTC] PHP Fatal error:  Uncaught Error: Class "Redirection_Api_Route" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-settings.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-settings.php on line 82
+[24-Nov-2025 11:00:01 UTC] PHP Fatal error:  Uncaught Error: Class "Redirection_Api_Route" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-export.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/api/api-export.php on line 25

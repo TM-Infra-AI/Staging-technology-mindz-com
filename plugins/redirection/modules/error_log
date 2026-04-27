@@ -1,0 +1,12 @@
+[24-Nov-2025 11:00:14 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Module" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/modules/wordpress.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/modules/wordpress.php on line 8
+[24-Nov-2025 11:00:14 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Module" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/modules/apache.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/modules/apache.php on line 3
+[24-Nov-2025 11:00:14 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Module" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/modules/nginx.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/modules/nginx.php on line 3

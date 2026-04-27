@@ -1,0 +1,22 @@
+[24-Nov-2025 11:00:15 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Action" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/actions/error.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/actions/error.php on line 6
+[24-Nov-2025 11:00:15 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Action" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/actions/nothing.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/actions/nothing.php on line 6
+[24-Nov-2025 11:00:16 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Action" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/actions/url.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/actions/url.php on line 6
+[24-Nov-2025 11:00:16 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Action" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/actions/url.php:6
+Stack trace:
+#0 /home/stmcpanel/public_html/wp-content/plugins/redirection/actions/pass.php(3): require_once()
+#1 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/actions/url.php on line 6
+[24-Nov-2025 11:00:16 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Action" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/actions/url.php:6
+Stack trace:
+#0 /home/stmcpanel/public_html/wp-content/plugins/redirection/actions/random.php(3): require_once()
+#1 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/actions/url.php on line 6

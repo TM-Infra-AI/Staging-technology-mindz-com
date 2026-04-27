@@ -1,0 +1,8 @@
+[24-Nov-2025 10:56:21 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_Schema" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 10
+[24-Nov-2025 10:56:21 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_Schema" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 10

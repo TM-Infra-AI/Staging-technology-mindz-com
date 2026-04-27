@@ -1,0 +1,16 @@
+[24-Nov-2025 10:56:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_CLI_Command" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Clean_Command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Clean_Command.php on line 6
+[24-Nov-2025 10:56:15 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_QueueRunner" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[24-Nov-2025 10:56:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_CLI_Command" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[24-Nov-2025 10:56:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_CLI_Command" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6

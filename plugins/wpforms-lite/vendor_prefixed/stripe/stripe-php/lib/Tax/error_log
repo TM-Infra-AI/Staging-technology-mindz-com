@@ -1,0 +1,24 @@
+[24-Nov-2025 10:52:41 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Tax/CalculationLineItem.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Tax/CalculationLineItem.php on line 19
+[24-Nov-2025 10:52:41 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Tax/Registration.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Tax/Registration.php on line 23
+[24-Nov-2025 10:52:41 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Tax/Transaction.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Tax/Transaction.php on line 28
+[24-Nov-2025 10:52:42 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Tax/Calculation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Tax/Calculation.php on line 27
+[24-Nov-2025 10:52:42 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\SingletonApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Tax/Settings.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Tax/Settings.php on line 18
+[24-Nov-2025 10:52:42 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Stripe\ApiResource" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Tax/TransactionLineItem.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Tax/TransactionLineItem.php on line 21

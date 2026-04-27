@@ -1,0 +1,24 @@
+[24-Nov-2025 10:56:01 UTC] PHP Fatal error:  Uncaught Error: Interface "ActionScheduler_Exception" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[24-Nov-2025 10:56:01 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_LogEntry" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[24-Nov-2025 10:56:02 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_ListTable" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[24-Nov-2025 10:56:03 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_QueueRunner" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[24-Nov-2025 10:56:05 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_AdminView_Deprecated" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[24-Nov-2025 10:56:05 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Lock" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10

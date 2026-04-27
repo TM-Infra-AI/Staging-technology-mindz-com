@@ -1,0 +1,1 @@
+[24-Nov-2025 10:54:38 UTC] PHP Fatal error:  Trait "WPForms\Admin\Education\StringsTrait" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/Gutenberg/FormSelector.php on line 16

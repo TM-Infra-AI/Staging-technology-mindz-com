@@ -1,0 +1,4 @@
+[24-Nov-2025 11:00:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "REDIRECTION_FILE" in /home/stmcpanel/public_html/wp-content/plugins/redirection/models/fixer.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/models/fixer.php on line 3

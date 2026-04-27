@@ -1,0 +1,16 @@
+[24-Nov-2025 10:49:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Response\ErrorInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Response/Error.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Response/Error.php on line 20
+[24-Nov-2025 10:49:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Response\ResponseInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Response/Status.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Response/Status.php on line 19
+[24-Nov-2025 10:49:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Response\ResponseInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Response/ErrorInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Response/ErrorInterface.php on line 20
+[24-Nov-2025 10:49:12 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\PredisException" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Response/ServerException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Response/ServerException.php on line 21

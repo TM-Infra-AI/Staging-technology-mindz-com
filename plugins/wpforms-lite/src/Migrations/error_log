@@ -1,0 +1,56 @@
+[24-Nov-2025 10:55:15 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Migrations\UpgradeBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade182.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade182.php on line 15
+[24-Nov-2025 10:55:15 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Migrations\UpgradeBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade187.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade187.php on line 15
+[24-Nov-2025 10:55:15 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Migrations\UpgradeBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1_9_1.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1_9_1.php on line 10
+[24-Nov-2025 10:55:16 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Migrations\UpgradeBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade184.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade184.php on line 15
+[24-Nov-2025 10:55:16 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Migrations\UpgradeBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1_9_2.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1_9_2.php on line 15
+[24-Nov-2025 10:55:16 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Migrations\UpgradeBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade159.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade159.php on line 12
+[24-Nov-2025 10:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Migrations\UpgradeBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade168.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade168.php on line 12
+[24-Nov-2025 10:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Migrations\UpgradeBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade186.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade186.php on line 14
+[24-Nov-2025 10:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Migrations\UpgradeBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1672.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1672.php on line 12
+[24-Nov-2025 10:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Migrations\UpgradeBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1751.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1751.php on line 12
+[24-Nov-2025 10:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Migrations\Base" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Migrations.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Migrations.php on line 15
+[24-Nov-2025 10:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Migrations\UpgradeBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade177.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade177.php on line 10
+[24-Nov-2025 10:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Migrations\UpgradeBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade183.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade183.php on line 14
+[24-Nov-2025 10:55:19 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Migrations\UpgradeBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade175.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade175.php on line 15

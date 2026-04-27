@@ -1,0 +1,124 @@
+[24-Nov-2025 10:54:27 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/PageId.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/PageId.php on line 10
+[24-Nov-2025 10:54:27 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/Date.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/Date.php on line 10
+[24-Nov-2025 10:54:27 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserFullName.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserFullName.php on line 12
+[24-Nov-2025 10:54:27 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserFirstName.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserFirstName.php on line 12
+[24-Nov-2025 10:54:28 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/PageUrl.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/PageUrl.php on line 10
+[24-Nov-2025 10:54:28 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UrlRegister.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UrlRegister.php on line 10
+[24-Nov-2025 10:54:28 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UrlReferer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UrlReferer.php on line 10
+[24-Nov-2025 10:54:28 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserId.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserId.php on line 12
+[24-Nov-2025 10:54:29 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserLastName.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserLastName.php on line 12
+[24-Nov-2025 10:54:29 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserDisplay.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserDisplay.php on line 12
+[24-Nov-2025 10:54:29 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/AuthorId.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/AuthorId.php on line 10
+[24-Nov-2025 10:54:29 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserEmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserEmail.php on line 12
+[24-Nov-2025 10:54:30 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UrlLostPassword.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UrlLostPassword.php on line 10
+[24-Nov-2025 10:54:30 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/FieldId.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/FieldId.php on line 10
+[24-Nov-2025 10:54:30 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/QueryVar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/QueryVar.php on line 10
+[24-Nov-2025 10:54:31 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UrlLogout.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UrlLogout.php on line 10
+[24-Nov-2025 10:54:31 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/OrderSummary.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/OrderSummary.php on line 10
+[24-Nov-2025 10:54:31 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/FormName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/FormName.php on line 10
+[24-Nov-2025 10:54:31 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/AdminEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/AdminEmail.php on line 10
+[24-Nov-2025 10:54:32 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserMeta.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserMeta.php on line 12
+[24-Nov-2025 10:54:32 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/Generic.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/Generic.php on line 10
+[24-Nov-2025 10:54:32 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/PageTitle.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/PageTitle.php on line 10
+[24-Nov-2025 10:54:32 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/SiteName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/SiteName.php on line 10
+[24-Nov-2025 10:54:33 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/FormId.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/FormId.php on line 10
+[24-Nov-2025 10:54:33 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/AuthorEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/AuthorEmail.php on line 10
+[24-Nov-2025 10:54:33 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/FieldHtmlId.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/FieldHtmlId.php on line 10
+[24-Nov-2025 10:54:33 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UrlLogin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UrlLogin.php on line 10
+[24-Nov-2025 10:54:34 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UniqueValue.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UniqueValue.php on line 10
+[24-Nov-2025 10:54:34 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/AuthorDisplay.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/AuthorDisplay.php on line 10
+[24-Nov-2025 10:54:34 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserIp.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/UserIp.php on line 10
+[24-Nov-2025 10:54:35 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\SmartTags\SmartTag\SmartTag" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/FieldValueId.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/SmartTags/SmartTag/FieldValueId.php on line 10

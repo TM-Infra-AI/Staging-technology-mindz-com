@@ -1,0 +1,64 @@
+[24-Nov-2025 11:01:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[24-Nov-2025 11:01:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php on line 3
+[06-Jan-2026 05:13:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php on line 3
+[06-Jan-2026 05:13:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[23-Jan-2026 04:02:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php on line 3
+[23-Jan-2026 04:02:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[12-Feb-2026 19:13:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php on line 3
+[12-Feb-2026 19:13:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[23-Feb-2026 09:27:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php on line 3
+[23-Feb-2026 09:27:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[04-Mar-2026 00:52:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php on line 3
+[04-Mar-2026 00:52:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[08-Mar-2026 18:19:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php on line 3
+[08-Mar-2026 18:19:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[26-Mar-2026 16:51:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php on line 3
+[26-Mar-2026 16:51:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6

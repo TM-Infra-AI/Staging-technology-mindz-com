@@ -1,0 +1,48 @@
+[24-Nov-2025 10:49:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Connection\FactoryInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/Factory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/Factory.php on line 21
+[24-Nov-2025 10:49:17 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Connection\StreamConnection" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/PhpiredisStreamConnection.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/PhpiredisStreamConnection.php on line 49
+[24-Nov-2025 10:49:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Connection\NodeConnectionInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/CompositeConnectionInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/CompositeConnectionInterface.php on line 20
+[24-Nov-2025 10:49:17 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Connection\AbstractConnection" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/StreamConnection.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/StreamConnection.php on line 36
+[24-Nov-2025 10:49:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Connection\NodeConnectionInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/AbstractConnection.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/AbstractConnection.php on line 24
+[24-Nov-2025 10:49:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Connection\ConnectionInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/NodeConnectionInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/NodeConnectionInterface.php on line 21
+[24-Nov-2025 10:49:18 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\CommunicationException" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/ConnectionException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/ConnectionException.php on line 21
+[24-Nov-2025 10:49:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Connection\NodeConnectionInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/WebdisConnection.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/WebdisConnection.php on line 46
+[24-Nov-2025 10:49:19 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Connection\AbstractConnection" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/PhpiredisSocketConnection.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/PhpiredisSocketConnection.php on line 47
+[24-Nov-2025 10:49:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Connection\ParametersInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/Parameters.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/Parameters.php on line 21
+[24-Nov-2025 10:49:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Connection\ConnectionInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/AggregateConnectionInterface.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/AggregateConnectionInterface.php on line 22
+[24-Nov-2025 10:49:20 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Connection\StreamConnection" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/CompositeStreamConnection.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Connection/CompositeStreamConnection.php on line 24

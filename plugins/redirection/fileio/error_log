@@ -1,0 +1,20 @@
+[24-Nov-2025 10:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "Red_FileIO" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/fileio/csv.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/fileio/csv.php on line 3
+[24-Nov-2025 10:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "Red_FileIO" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/fileio/apache.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/fileio/apache.php on line 3
+[24-Nov-2025 10:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "Red_FileIO" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/fileio/json.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/fileio/json.php on line 3
+[24-Nov-2025 10:59:58 UTC] PHP Fatal error:  Uncaught Error: Class "Red_FileIO" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/fileio/rss.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/fileio/rss.php on line 3
+[24-Nov-2025 10:59:58 UTC] PHP Fatal error:  Uncaught Error: Class "Red_FileIO" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/fileio/nginx.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/fileio/nginx.php on line 3

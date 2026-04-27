@@ -1,0 +1,4 @@
+[24-Nov-2025 10:50:28 UTC] PHP Fatal error:  Uncaught Error: Class "Isolated\Symfony\Component\Finder\Finder" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/core/externals/wpmudev-analytics/scoper.inc.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/core/externals/wpmudev-analytics/scoper.inc.php on line 29

@@ -1,0 +1,5 @@
+[24-Nov-2025 10:58:43 UTC] PHP Warning:  Class "WPForms\Helpers\PluginSilentUpgraderSkin" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/includes/deprecated.php on line 146
+[24-Nov-2025 10:58:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpforms() in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/includes/deprecated.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/includes/deprecated.php on line 155

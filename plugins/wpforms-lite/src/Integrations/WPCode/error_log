@@ -1,0 +1,8 @@
+[24-Nov-2025 10:54:51 UTC] PHP Fatal error:  Uncaught Error: Interface "WPForms\Integrations\IntegrationInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/WPCode/WPCode.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/WPCode/WPCode.php on line 12
+[24-Nov-2025 10:54:51 UTC] PHP Fatal error:  Uncaught Error: Interface "WPForms\Integrations\IntegrationInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/WPCode/RegisterLibrary.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/WPCode/RegisterLibrary.php on line 12

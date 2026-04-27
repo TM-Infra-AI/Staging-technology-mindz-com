@@ -1,0 +1,12 @@
+[24-Nov-2025 10:54:43 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Integrations\LiteConnect\Integration" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/LiteConnect/RefreshAccessTokenTask.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/LiteConnect/RefreshAccessTokenTask.php on line 10
+[24-Nov-2025 10:54:43 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Integrations\LiteConnect\API" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/LiteConnect/Integration.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/LiteConnect/Integration.php on line 16
+[24-Nov-2025 10:54:44 UTC] PHP Fatal error:  Uncaught Error: Interface "WPForms\Integrations\IntegrationInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/LiteConnect/LiteConnect.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Integrations/LiteConnect/LiteConnect.php on line 12

@@ -1,0 +1,4 @@
+[24-Nov-2025 10:50:34 UTC] PHP Fatal error:  Uncaught Error: Class "WPMUDEV_Analytics_V2" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/core/externals/wpmudev-analytics/core/class-wpmudev-analytics.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/core/externals/wpmudev-analytics/core/class-wpmudev-analytics.php on line 4

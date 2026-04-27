@@ -1,0 +1,49 @@
+[24-Nov-2025 10:59:52 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Match" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/page.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/page.php on line 6
+[24-Nov-2025 10:59:53 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Match" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/language.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/language.php on line 6
+[24-Nov-2025 10:59:53 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Match" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/http-header.php:6
+Stack trace:
+#0 /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/cookie.php(3): require_once()
+#1 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/http-header.php on line 6
+[24-Nov-2025 10:59:53 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Match" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/http-header.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/http-header.php on line 6
+[24-Nov-2025 10:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Match" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/ip.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/ip.php on line 6
+[24-Nov-2025 10:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Match" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/login.php on line 6
+[24-Nov-2025 10:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Match" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/url.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/url.php on line 6
+[24-Nov-2025 10:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Match" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/referrer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/referrer.php on line 6
+[24-Nov-2025 10:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Match" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/user-agent.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/user-agent.php on line 6
+[24-Nov-2025 10:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Match" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/user-role.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/user-role.php on line 6
+[24-Nov-2025 10:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Match" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/custom-filter.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/custom-filter.php on line 6
+[24-Nov-2025 10:59:56 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Match" not found in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/server.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/redirection/matches/server.php on line 6

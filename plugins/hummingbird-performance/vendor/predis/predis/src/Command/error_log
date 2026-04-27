@@ -1,0 +1,656 @@
+[24-Nov-2025 10:49:21 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPushTailX.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPushTailX.php on line 19
+[24-Nov-2025 10:49:22 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringStrlen.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringStrlen.php on line 19
+[24-Nov-2025 10:49:22 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyRandom.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyRandom.php on line 19
+[24-Nov-2025 10:49:22 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyRestore.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyRestore.php on line 19
+[24-Nov-2025 10:49:22 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashExists.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashExists.php on line 19
+[24-Nov-2025 10:49:23 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetIsMember.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetIsMember.php on line 19
+[24-Nov-2025 10:49:23 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\KeyRename" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyRenamePreserve.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyRenamePreserve.php on line 19
+[24-Nov-2025 10:49:23 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetIntersection.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetIntersection.php on line 19
+[24-Nov-2025 10:49:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Command\CommandInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/PrefixableCommandInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/PrefixableCommandInterface.php on line 19
+[24-Nov-2025 10:49:24 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyExists.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyExists.php on line 19
+[24-Nov-2025 10:49:24 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\ZSetRange" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRangeByScore.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRangeByScore.php on line 19
+[24-Nov-2025 10:49:24 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListIndex.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListIndex.php on line 19
+[24-Nov-2025 10:49:25 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRemoveRangeByScore.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRemoveRangeByScore.php on line 19
+[24-Nov-2025 10:49:25 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashSetPreserve.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashSetPreserve.php on line 19
+[24-Nov-2025 10:49:25 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/TransactionMulti.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/TransactionMulti.php on line 19
+[24-Nov-2025 10:49:25 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyExpire.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyExpire.php on line 19
+[24-Nov-2025 10:49:26 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyDelete.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyDelete.php on line 19
+[24-Nov-2025 10:49:26 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\ListPushTail" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPushHead.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPushHead.php on line 19
+[24-Nov-2025 10:49:26 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashSet.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashSet.php on line 19
+[24-Nov-2025 10:49:26 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashStringLength.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashStringLength.php on line 19
+[24-Nov-2025 10:49:27 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HyperLogLogAdd.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HyperLogLogAdd.php on line 19
+[24-Nov-2025 10:49:27 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\StringSetExpire" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringPreciseSetExpire.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringPreciseSetExpire.php on line 19
+[24-Nov-2025 10:49:27 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerBackgroundRewriteAOF.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerBackgroundRewriteAOF.php on line 19
+[24-Nov-2025 10:49:27 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\PubSubSubscribe" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/PubSubSubscribeByPattern.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/PubSubSubscribeByPattern.php on line 19
+[24-Nov-2025 10:49:28 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\ServerEvalSHA" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ScriptCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ScriptCommand.php on line 22
+[24-Nov-2025 10:49:28 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSetBit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSetBit.php on line 19
+[24-Nov-2025 10:49:28 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\KeyTimeToLive" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyPreciseTimeToLive.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyPreciseTimeToLive.php on line 19
+[24-Nov-2025 10:49:28 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\ZSetRange" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetReverseRange.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetReverseRange.php on line 19
+[24-Nov-2025 10:49:29 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerDatabaseSize.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerDatabaseSize.php on line 19
+[24-Nov-2025 10:49:29 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetUnionStore.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetUnionStore.php on line 19
+[24-Nov-2025 10:49:29 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringDecrement.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringDecrement.php on line 19
+[24-Nov-2025 10:49:30 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetIntersectionStore.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetIntersectionStore.php on line 19
+[24-Nov-2025 10:49:30 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringBitCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringBitCount.php on line 19
+[24-Nov-2025 10:49:30 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\ListPopFirstBlocking" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPopLastBlocking.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPopLastBlocking.php on line 19
+[24-Nov-2025 10:49:30 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/GeospatialGeoAdd.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/GeospatialGeoAdd.php on line 19
+[24-Nov-2025 10:49:31 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyDump.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyDump.php on line 19
+[24-Nov-2025 10:49:31 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetRandomMember.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetRandomMember.php on line 19
+[24-Nov-2025 10:49:31 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerObject.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerObject.php on line 19
+[24-Nov-2025 10:49:32 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\ZSetRangeByLex" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetReverseRangeByLex.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetReverseRangeByLex.php on line 19
+[24-Nov-2025 10:49:32 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSetExpire.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSetExpire.php on line 19
+[24-Nov-2025 10:49:32 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashSetMultiple.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashSetMultiple.php on line 19
+[24-Nov-2025 10:49:32 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListRange.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListRange.php on line 19
+[24-Nov-2025 10:49:33 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\ZSetRange" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRangeByLex.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRangeByLex.php on line 19
+[24-Nov-2025 10:49:33 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerFlushDatabase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerFlushDatabase.php on line 19
+[24-Nov-2025 10:49:33 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/PubSubSubscribe.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/PubSubSubscribe.php on line 19
+[24-Nov-2025 10:49:33 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerCommand.php on line 19
+[24-Nov-2025 10:49:34 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerSave.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerSave.php on line 19
+[24-Nov-2025 10:49:34 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\KeyExpire" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyPreciseExpire.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyPreciseExpire.php on line 19
+[24-Nov-2025 10:49:34 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerSentinel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerSentinel.php on line 19
+[24-Nov-2025 10:49:35 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/PubSubPublish.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/PubSubPublish.php on line 19
+[24-Nov-2025 10:49:35 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPopFirst.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPopFirst.php on line 19
+[24-Nov-2025 10:49:35 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringIncrementByFloat.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringIncrementByFloat.php on line 19
+[24-Nov-2025 10:49:35 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerFlushAll.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerFlushAll.php on line 19
+[24-Nov-2025 10:49:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Command\CommandInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/RawCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/RawCommand.php on line 24
+[24-Nov-2025 10:49:36 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringGet.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringGet.php on line 19
+[24-Nov-2025 10:49:36 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringDecrementBy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringDecrementBy.php on line 19
+[24-Nov-2025 10:49:36 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/GeospatialGeoPos.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/GeospatialGeoPos.php on line 19
+[24-Nov-2025 10:49:37 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerMonitor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerMonitor.php on line 19
+[24-Nov-2025 10:49:37 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ConnectionPing.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ConnectionPing.php on line 19
+[24-Nov-2025 10:49:37 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeySort.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeySort.php on line 19
+[24-Nov-2025 10:49:37 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyKeys.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyKeys.php on line 19
+[24-Nov-2025 10:49:38 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/TransactionExec.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/TransactionExec.php on line 19
+[24-Nov-2025 10:49:38 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSetPreserve.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSetPreserve.php on line 19
+[24-Nov-2025 10:49:38 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPopLastPushHead.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPopLastPushHead.php on line 19
+[24-Nov-2025 10:49:39 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringBitPos.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringBitPos.php on line 19
+[24-Nov-2025 10:49:39 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListInsert.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListInsert.php on line 19
+[24-Nov-2025 10:49:39 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\ServerInfo" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerInfoV26x.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerInfoV26x.php on line 19
+[24-Nov-2025 10:49:39 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashKeys.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashKeys.php on line 19
+[24-Nov-2025 10:49:40 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\SetIntersection" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetUnion.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetUnion.php on line 19
+[24-Nov-2025 10:49:40 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerBackgroundSave.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerBackgroundSave.php on line 19
+[24-Nov-2025 10:49:40 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashValues.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashValues.php on line 19
+[24-Nov-2025 10:49:41 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashLength.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashLength.php on line 19
+[24-Nov-2025 10:49:41 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListTrim.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListTrim.php on line 19
+[24-Nov-2025 10:49:41 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRemove.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRemove.php on line 19
+[24-Nov-2025 10:49:41 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSet.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSet.php on line 19
+[24-Nov-2025 10:49:42 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPopLastPushHeadBlocking.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPopLastPushHeadBlocking.php on line 19
+[24-Nov-2025 10:49:42 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRemoveRangeByLex.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRemoveRangeByLex.php on line 19
+[24-Nov-2025 10:49:42 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\SetIntersectionStore" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetUnionStore.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetUnionStore.php on line 19
+[24-Nov-2025 10:49:42 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPushTail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPushTail.php on line 19
+[24-Nov-2025 10:49:43 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ConnectionAuth.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ConnectionAuth.php on line 19
+[24-Nov-2025 10:49:43 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyType.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyType.php on line 19
+[24-Nov-2025 10:49:43 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\KeyExpireAt" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyPreciseExpireAt.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyPreciseExpireAt.php on line 19
+[24-Nov-2025 10:49:43 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerInfo.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerInfo.php on line 19
+[24-Nov-2025 10:49:44 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetMembers.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetMembers.php on line 19
+[24-Nov-2025 10:49:44 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPopLast.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPopLast.php on line 19
+[24-Nov-2025 10:49:44 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetMove.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetMove.php on line 19
+[24-Nov-2025 10:49:45 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ConnectionQuit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ConnectionQuit.php on line 19
+[24-Nov-2025 10:49:45 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyPersist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyPersist.php on line 19
+[24-Nov-2025 10:49:45 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetLexCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetLexCount.php on line 19
+[24-Nov-2025 10:49:46 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ConnectionEcho.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ConnectionEcho.php on line 19
+[24-Nov-2025 10:49:46 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRange.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRange.php on line 19
+[24-Nov-2025 10:49:46 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPopFirstBlocking.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPopFirstBlocking.php on line 19
+[24-Nov-2025 10:49:46 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\ZSetUnionStore" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetIntersectionStore.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetIntersectionStore.php on line 19
+[24-Nov-2025 10:49:47 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListSet.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListSet.php on line 19
+[24-Nov-2025 10:49:47 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/GeospatialGeoRadius.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/GeospatialGeoRadius.php on line 19
+[24-Nov-2025 10:49:47 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashIncrementBy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashIncrementBy.php on line 19
+[24-Nov-2025 10:49:48 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyTimeToLive.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyTimeToLive.php on line 19
+[24-Nov-2025 10:49:48 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringGetSet.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringGetSet.php on line 19
+[24-Nov-2025 10:49:48 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRemoveRangeByRank.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRemoveRangeByRank.php on line 19
+[24-Nov-2025 10:49:49 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\SetIntersectionStore" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetDifferenceStore.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetDifferenceStore.php on line 19
+[24-Nov-2025 10:49:49 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetAdd.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetAdd.php on line 19
+[24-Nov-2025 10:49:49 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringAppend.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringAppend.php on line 19
+[24-Nov-2025 10:49:49 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashDelete.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashDelete.php on line 19
+[24-Nov-2025 10:49:50 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerShutdown.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerShutdown.php on line 19
+[24-Nov-2025 10:49:50 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetCardinality.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetCardinality.php on line 19
+[24-Nov-2025 10:49:50 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerClient.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerClient.php on line 22
+[24-Nov-2025 10:49:50 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRank.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetRank.php on line 19
+[24-Nov-2025 10:49:51 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetReverseRank.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetReverseRank.php on line 19
+[24-Nov-2025 10:49:51 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HyperLogLogCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HyperLogLogCount.php on line 19
+[24-Nov-2025 10:49:51 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerLastSave.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerLastSave.php on line 19
+[24-Nov-2025 10:49:51 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ConnectionSelect.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ConnectionSelect.php on line 19
+[24-Nov-2025 10:49:52 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashIncrementByFloat.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashIncrementByFloat.php on line 19
+[24-Nov-2025 10:49:52 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerConfig.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerConfig.php on line 22
+[24-Nov-2025 10:49:52 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerScript.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerScript.php on line 19
+[24-Nov-2025 10:49:52 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HyperLogLogMerge.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HyperLogLogMerge.php on line 19
+[24-Nov-2025 10:49:53 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringGetMultiple.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringGetMultiple.php on line 19
+[24-Nov-2025 10:49:53 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashGetAll.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashGetAll.php on line 19
+[24-Nov-2025 10:49:53 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPushHeadX.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListPushHeadX.php on line 19
+[24-Nov-2025 10:49:54 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/GeospatialGeoDist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/GeospatialGeoDist.php on line 19
+[24-Nov-2025 10:49:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\Command\CommandInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/Command.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/Command.php on line 19
+[24-Nov-2025 10:49:54 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetIncrementBy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetIncrementBy.php on line 19
+[24-Nov-2025 10:49:55 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetPop.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetPop.php on line 19
+[24-Nov-2025 10:49:55 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/TransactionDiscard.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/TransactionDiscard.php on line 19
+[24-Nov-2025 10:49:55 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyMove.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyMove.php on line 19
+[24-Nov-2025 10:49:56 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetCount.php on line 19
+[24-Nov-2025 10:49:56 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringBitField.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringBitField.php on line 19
+[24-Nov-2025 10:49:56 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\StringSetMultiple" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSetMultiplePreserve.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSetMultiplePreserve.php on line 19
+[24-Nov-2025 10:49:56 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyScan.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyScan.php on line 19
+[24-Nov-2025 10:49:57 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\ZSetRangeByScore" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetReverseRangeByScore.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetReverseRangeByScore.php on line 19
+[24-Nov-2025 10:49:57 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListLength.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListLength.php on line 19
+[24-Nov-2025 10:49:57 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\ServerEval" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerEvalSHA.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerEvalSHA.php on line 19
+[24-Nov-2025 10:49:57 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerEval.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerEval.php on line 19
+[24-Nov-2025 10:49:58 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyMigrate.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyMigrate.php on line 19
+[24-Nov-2025 10:49:58 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetCardinality.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetCardinality.php on line 19
+[24-Nov-2025 10:49:58 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashScan.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashScan.php on line 19
+[24-Nov-2025 10:49:58 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerTime.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerTime.php on line 19
+[24-Nov-2025 10:49:59 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\GeospatialGeoRadius" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/GeospatialGeoRadiusByMember.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/GeospatialGeoRadiusByMember.php on line 19
+[24-Nov-2025 10:49:59 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\SetIntersection" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetDifference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetDifference.php on line 19
+[24-Nov-2025 10:49:59 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetScan.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetScan.php on line 19
+[24-Nov-2025 10:49:59 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/PubSubUnsubscribe.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/PubSubUnsubscribe.php on line 19
+[24-Nov-2025 10:50:00 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetAdd.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetAdd.php on line 19
+[24-Nov-2025 10:50:00 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSetMultiple.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSetMultiple.php on line 19
+[24-Nov-2025 10:50:00 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/TransactionWatch.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/TransactionWatch.php on line 19
+[24-Nov-2025 10:50:00 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringGetRange.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringGetRange.php on line 19
+[24-Nov-2025 10:50:01 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashGet.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashGet.php on line 19
+[24-Nov-2025 10:50:01 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyRename.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyRename.php on line 19
+[24-Nov-2025 10:50:01 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/PubSubPubsub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/PubSubPubsub.php on line 19
+[24-Nov-2025 10:50:02 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetScore.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetScore.php on line 19
+[24-Nov-2025 10:50:02 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashGetMultiple.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/HashGetMultiple.php on line 19
+[24-Nov-2025 10:50:02 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyExpireAt.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/KeyExpireAt.php on line 19
+[24-Nov-2025 10:50:02 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerSlowlog.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerSlowlog.php on line 19
+[24-Nov-2025 10:50:03 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetRemove.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/SetRemove.php on line 19
+[24-Nov-2025 10:50:03 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerSlaveOf.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ServerSlaveOf.php on line 19
+[24-Nov-2025 10:50:03 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListRemove.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ListRemove.php on line 19
+[24-Nov-2025 10:50:03 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/TransactionUnwatch.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/TransactionUnwatch.php on line 19
+[24-Nov-2025 10:50:04 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringIncrementBy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringIncrementBy.php on line 19
+[24-Nov-2025 10:50:04 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringGetBit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringGetBit.php on line 19
+[24-Nov-2025 10:50:04 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSetRange.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSetRange.php on line 19
+[24-Nov-2025 10:50:05 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetScan.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/ZSetScan.php on line 19
+[24-Nov-2025 10:50:05 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSubstr.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringSubstr.php on line 19
+[24-Nov-2025 10:50:05 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/GeospatialGeoHash.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/GeospatialGeoHash.php on line 19
+[24-Nov-2025 10:50:05 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringIncrement.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringIncrement.php on line 19
+[24-Nov-2025 10:50:06 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\PubSubUnsubscribe" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/PubSubUnsubscribeByPattern.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/PubSubUnsubscribeByPattern.php on line 19
+[24-Nov-2025 10:50:06 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Command\Command" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringBitOp.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Command/StringBitOp.php on line 19

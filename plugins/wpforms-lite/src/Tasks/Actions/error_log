@@ -1,0 +1,44 @@
+[24-Nov-2025 10:55:24 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Tasks\Task" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/EntryEmailsMetaCleanupTask.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/EntryEmailsMetaCleanupTask.php on line 13
+[24-Nov-2025 10:55:24 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Tasks\Task" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/EntryEmailsTask.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/EntryEmailsTask.php on line 14
+[24-Nov-2025 10:55:25 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Tasks\Task" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/StripeLinkSubscriptionsTask.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/StripeLinkSubscriptionsTask.php on line 14
+[24-Nov-2025 10:55:25 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Tasks\Task" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/AsyncRequestTask.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/AsyncRequestTask.php on line 13
+[24-Nov-2025 10:55:25 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Tasks\Task" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/FormsLocatorScanTask.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/FormsLocatorScanTask.php on line 23
+[24-Nov-2025 10:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Tasks\Task" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/Migration173Task.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/Migration173Task.php on line 16
+[24-Nov-2025 10:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Tasks\Task" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/WebhooksAutoConfigurationTask.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/WebhooksAutoConfigurationTask.php on line 14
+[24-Nov-2025 10:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Tasks\Task" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/PurgeSpamTask.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/PurgeSpamTask.php on line 12
+[24-Nov-2025 10:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Tasks\Task" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/Migration175Task.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/Migration175Task.php on line 15
+[24-Nov-2025 10:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Tasks\Task" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/DomainAutoRegistrationTask.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/DomainAutoRegistrationTask.php on line 14
+[24-Nov-2025 10:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Tasks\Task" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/IconChoicesFontAwesomeUpgradeTask.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Actions/IconChoicesFontAwesomeUpgradeTask.php on line 12

@@ -1,0 +1,96 @@
+[24-Nov-2025 11:01:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php on line 9
+[24-Nov-2025 11:01:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php on line 8
+[24-Nov-2025 11:01:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php on line 3
+[06-Jan-2026 05:13:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php on line 3
+[06-Jan-2026 05:13:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php on line 9
+[06-Jan-2026 05:13:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php on line 8
+[23-Jan-2026 04:02:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php on line 3
+[23-Jan-2026 04:02:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php on line 9
+[23-Jan-2026 04:02:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php on line 8
+[12-Feb-2026 19:13:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php on line 3
+[12-Feb-2026 19:13:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php on line 9
+[12-Feb-2026 19:13:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php on line 8
+[23-Feb-2026 09:27:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php on line 3
+[23-Feb-2026 09:27:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php on line 9
+[23-Feb-2026 09:27:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php on line 8
+[04-Mar-2026 00:52:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php on line 3
+[04-Mar-2026 00:52:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php on line 9
+[04-Mar-2026 00:52:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php on line 8
+[08-Mar-2026 18:19:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php on line 3
+[08-Mar-2026 18:19:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php on line 9
+[08-Mar-2026 18:19:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php on line 8
+[26-Mar-2026 16:51:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/contact-form-properties.php on line 3
+[26-Mar-2026 16:51:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/doi.php on line 9
+[26-Mar-2026 16:51:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/modules/sendinblue/sendinblue.php on line 8

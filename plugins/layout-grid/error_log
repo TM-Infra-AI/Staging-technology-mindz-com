@@ -1,0 +1,4 @@
+[11-Oct-2025 01:41:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/stmcpanel/public_html/wp-content/plugins/layout-grid/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/layout-grid/index.php on line 13

@@ -1,0 +1,6 @@
+[24-Nov-2025 10:50:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/core/externals/plugin-notice/notice.php:266
+Stack trace:
+#0 /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/core/externals/plugin-notice/notice.php(749): WPMUDEV_Recommended_Plugins_Notice->__construct()
+#1 /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/core/externals/plugin-notice/notice.php(756): WPMUDEV_Recommended_Plugins_Notice::get_instance()
+#2 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/core/externals/plugin-notice/notice.php on line 266

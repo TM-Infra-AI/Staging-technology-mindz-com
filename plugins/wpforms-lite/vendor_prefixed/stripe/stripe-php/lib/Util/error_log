@@ -1,0 +1,4 @@
+[24-Nov-2025 10:52:59 UTC] PHP Fatal error:  Uncaught Error: Interface "WPForms\Vendor\Stripe\Util\LoggerInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Util/DefaultLogger.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/stripe/stripe-php/lib/Util/DefaultLogger.php on line 9

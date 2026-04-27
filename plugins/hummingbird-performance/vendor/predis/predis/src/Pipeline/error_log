@@ -1,0 +1,16 @@
+[24-Nov-2025 10:49:05 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Pipeline\Pipeline" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Pipeline/Atomic.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Pipeline/Atomic.php on line 27
+[24-Nov-2025 10:49:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Predis\ClientContextInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Pipeline/Pipeline.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Pipeline/Pipeline.php on line 32
+[24-Nov-2025 10:49:06 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Pipeline\Pipeline" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Pipeline/FireAndForget.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Pipeline/FireAndForget.php on line 21
+[24-Nov-2025 10:49:06 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Pipeline\Pipeline" not found in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Pipeline/ConnectionErrorProof.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/hummingbird-performance/vendor/predis/predis/src/Pipeline/ConnectionErrorProof.php on line 28

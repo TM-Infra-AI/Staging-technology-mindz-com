@@ -1,0 +1,32 @@
+[24-Nov-2025 11:01:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php on line 3
+[06-Jan-2026 05:12:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php on line 3
+[23-Jan-2026 04:01:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php on line 3
+[12-Feb-2026 19:12:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php on line 3
+[23-Feb-2026 09:26:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php on line 3
+[04-Mar-2026 00:51:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php on line 3
+[08-Mar-2026 18:17:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php on line 3
+[26-Mar-2026 16:50:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPCF7_PLUGIN_DIR" in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/contact-form-7/admin/admin.php on line 3

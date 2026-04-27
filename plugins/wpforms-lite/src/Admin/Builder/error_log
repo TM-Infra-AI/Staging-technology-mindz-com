@@ -1,0 +1,12 @@
+[24-Nov-2025 10:53:46 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Helpers\CacheBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Admin/Builder/TemplatesCache.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Admin/Builder/TemplatesCache.php on line 13
+[24-Nov-2025 10:53:46 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Helpers\CacheBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Admin/Builder/HelpCache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Admin/Builder/HelpCache.php on line 12
+[24-Nov-2025 10:53:47 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Helpers\CacheBase" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Admin/Builder/TemplateSingleCache.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Admin/Builder/TemplateSingleCache.php on line 13

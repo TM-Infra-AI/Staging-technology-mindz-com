@@ -1,0 +1,28 @@
+[24-Nov-2025 10:53:18 UTC] PHP Fatal error:  Uncaught Error: Interface "WPForms\Vendor\Symfony\Component\CssSelector\XPath\Extension\ExtensionInterface" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/AbstractExtension.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/AbstractExtension.php on line 23
+[24-Nov-2025 10:53:18 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/CombinationExtension.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/CombinationExtension.php on line 24
+[24-Nov-2025 10:53:18 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/FunctionExtension.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/FunctionExtension.php on line 29
+[24-Nov-2025 10:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/NodeExtension.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/NodeExtension.php on line 26
+[24-Nov-2025 10:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/PseudoClassExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/PseudoClassExtension.php on line 25
+[24-Nov-2025 10:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/HtmlExtension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/HtmlExtension.php on line 27
+[24-Nov-2025 10:53:20 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Vendor\Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php on line 25

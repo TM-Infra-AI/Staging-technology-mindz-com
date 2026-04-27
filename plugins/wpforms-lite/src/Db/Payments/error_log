@@ -1,0 +1,12 @@
+[24-Nov-2025 10:55:55 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Db\Payments\Payment" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Db/Payments/Queries.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Db/Payments/Queries.php on line 10
+[24-Nov-2025 10:55:56 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms_DB" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Db/Payments/Meta.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Db/Payments/Meta.php on line 12
+[24-Nov-2025 10:55:56 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms_DB" not found in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Db/Payments/Payment.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/stmcpanel/public_html/wp-content/plugins/wpforms-lite/src/Db/Payments/Payment.php on line 12
