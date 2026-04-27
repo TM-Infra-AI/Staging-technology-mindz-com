@@ -2,6 +2,9 @@
 /*
 Template Name: AI bot for wealth management assistance
 */
+/*
+Template Name: AI bot for wealth management assistance
+*/
 get_header();
 ?>
 
